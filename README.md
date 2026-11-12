@@ -101,7 +101,7 @@ Při stavbě základny používám několik pravidel:
 
 Na následujícím obrázku je ukázka hry Mindustry.
 
-![Ukázka základny a výrobních linek ve hře Mindustry](images/mindustry.png)
+![Ukázka základny a výrobních linek ve hře Mindustry](images/Mindustryy.jpg)
 
 *Obrázek ukazuje prostředí hry Mindustry, ve kterém hráč buduje továrny, přepravuje suroviny a organizuje obranu své základny.*
 
