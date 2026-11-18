@@ -1,5 +1,5 @@
-id,nazev,autor,rok_vydani,dostupna
-1,Babička,Božena Němcová,1855,ano
-2,Malý princ,Antoine de Saint-Exupéry,1943,ne
-3,"Já, robot",Isaac Asimov,1950,ano
-4,1984,George Orwell,1949,ne
+id,nazev,autor,rok_vydani,dostupna,pocet_stran
+1,Babička,Božena Němcová,1855,ano,240
+2,Malý princ,Antoine de Saint-Exupéry,1943,ne,96
+3,"Já, robot",Isaac Asimov,1950,ano,256
+4,1984,George Orwell,1949,ne,328
