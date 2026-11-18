@@ -2,7 +2,7 @@
   "jmeno": "Adam Novák",
   "vek": 19,
   "je_plnolety": true,
-  "poznamka": null,
+  "poznamka": "Rád sportuji a čtu knihy.",
   "adresa": {
     "mesto": "Ostrava",
     "ulice": "Hlavní"
@@ -11,5 +11,6 @@
     "čtení",
     "fotbal",
     "programování"
-  ]
+  ],
+  "oblibene_cislo": 7
 }
