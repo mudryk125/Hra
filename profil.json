@@ -1,0 +1,15 @@
+{
+  "jmeno": "Adam Novák",
+  "vek": 19,
+  "je_plnolety": true,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Ostrava",
+    "ulice": "Hlavní"
+  },
+  "konicky": [
+    "čtení",
+    "fotbal",
+    "programování"
+  ]
+}
